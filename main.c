@@ -6,4 +6,5 @@ int main(void) {
     printf("Hello, World!\n");
     printf("Pierwszy branch: %d", mnozenie(2,3));
     return 0;
+
 }
